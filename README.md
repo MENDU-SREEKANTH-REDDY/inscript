@@ -39,7 +39,7 @@
 
 ```bash
 # Clone the repository
-cd react-intern-spreadsheet
+cd my-react-app
 
 # Install dependencies
 npm install
