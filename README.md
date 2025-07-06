@@ -39,7 +39,6 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/react-intern-spreadsheet.git
 cd react-intern-spreadsheet
 
 # Install dependencies
