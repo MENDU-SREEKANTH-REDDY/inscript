@@ -6,7 +6,7 @@ This is a front-end-only React prototype built as part of the Gob React Internsh
 
 ## Live Demo
 
-[View Live Prototype](https://your-live-site-url.com)
+[View Live Prototype](https://inscript-five.vercel.app/)
 
 ---
 
