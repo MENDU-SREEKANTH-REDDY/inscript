@@ -1,6 +1,5 @@
 # React Intern Spreadsheet Prototype
 
-This is a front-end-only React prototype built as part of the Gob React Internship Assignment. It replicates a spreadsheet-like interface inspired by Google Sheets/Excel, styled to match the given Figma design with pixel-perfect accuracy.
 
 ---
 
